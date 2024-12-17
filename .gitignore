@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Data files
+*.csv
+*.ipynb
+
+# Build directories
+dist/
+build/
+
+# Project specific
+backup_app/
+logs/
+.DataEngine/
+config.ini
+requirements.txt
+database_backup.log
+notes.txt
