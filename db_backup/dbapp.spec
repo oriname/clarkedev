@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['dbapp.py'],
+    ['dbApp.py'],
     pathex=[],
     binaries=[('manifest.xml', '.')],
     datas=[],
